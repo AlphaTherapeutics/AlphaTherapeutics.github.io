@@ -1,1 +1,3 @@
-# AlphaTherapeutics.github.io
+# Alpha Therapeutics
+
+official github of Alpha Therapeutics
